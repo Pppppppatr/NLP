@@ -1,4 +1,5 @@
 pandas
 openai
+streamlit
 json
 matplotlib.pyplot
